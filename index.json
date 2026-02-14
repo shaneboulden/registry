@@ -202,7 +202,7 @@
     {
       "name": "cc_commando",
       "display_name": "C&C: Commando",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Command & Conquer Commando sound pack",
       "author": {
         "name": "shaneboulden",
@@ -222,9 +222,9 @@
       "sound_count": 13,
       "total_size_bytes": 169035,
       "source_repo": "shaneboulden/openpeon-cc-commando",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "24e48b84b2233d39e5cad38ae0f0d957e2566c3149f5f35b65ab6ee6f2938492",
+      "manifest_sha256": "2e103bb35cdcd1d03b2c73e92b797b6dd7521effe2033ff1caa084a89b9fbd6d",
       "tags": [
         "gaming",
         "command-and-conquer",
