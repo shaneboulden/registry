@@ -200,6 +200,45 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "cc_commando",
+      "display_name": "C&C: Commando",
+      "version": "1.0.0",
+      "description": "Command & Conquer Commando sound pack",
+      "author": {
+        "name": "shaneboulden",
+        "github": "shaneboulden"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 13,
+      "total_size_bytes": 169035,
+      "source_repo": "shaneboulden/openpeon-cc-commando",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "24e48b84b2233d39e5cad38ae0f0d957e2566c3149f5f35b65ab6ee6f2938492",
+      "tags": [
+        "gaming",
+        "command-and-conquer",
+        "ea",
+        "rts"
+      ],
+      "preview_sounds": [
+        "present-for-ya.mp3",
+        "left-handed.mp3"
+      ],
+      "added": "2026-02-14",
+      "updated": "2026-02-14"
+    },
+    {
       "name": "ccg_china_dozer",
       "display_name": "C&C Generals: China Dozer",
       "version": "1.0.0",
